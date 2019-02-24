@@ -1,4 +1,8 @@
 # Smart_Glove_for_Blinds
+So this a smart glove actully for blind people this is an very usefull device for them as it helps them bypassing huddles in their way. If we talk about the cost of this product so generally these kind of products cost around 3000-4000 but we have added the most important feature to it for blind people and reduced its cost to only 350Rs.<br>
+We have such a big market to sell this product also the feasiblity of this thing is 100%<br>
+Their are so many innovative thing done for deaf and dumb people but still no work has been done for visually bling people so i have thought to do something for them which is the usp of this project.
+
 ![Front](https://raw.githubusercontent.com/sarthaksahni1/Smart_Glove_for_Blinds/master/images/Front.jpg)<br>
 ![Back](https://raw.githubusercontent.com/sarthaksahni1/Smart_Glove_for_Blinds/master/images/Back.jpg)<br>
 <b>Ultrasonic Sensor HC-SR04</b>
