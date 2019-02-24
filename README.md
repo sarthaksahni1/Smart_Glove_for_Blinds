@@ -5,7 +5,9 @@ Their are so many innovative thing done for deaf and dumb people but still no wo
 
 ![Front](https://raw.githubusercontent.com/sarthaksahni1/Smart_Glove_for_Blinds/master/images/Front.jpg)<br>
 ![Back](https://raw.githubusercontent.com/sarthaksahni1/Smart_Glove_for_Blinds/master/images/Back.jpg)<br>
-<b>Ultrasonic Sensor HC-SR04</b>
+
+<b>Ultrasonic Sensor HC-SR04</b><br>
+
 The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. From 2cm to 400 cm or 1” to 13 feet. It operation is not affected by sunlight or black material like Sharp rangefinders are (although acoustically soft materials like cloth can be difficult to detect). It comes complete with ultrasonic transmitter and receiver module.
 
 <b>Features</b>
